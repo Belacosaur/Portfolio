@@ -43,7 +43,7 @@ body {
 #Anchor1 {
     display: flex;
     flex-wrap: wrap;
-    background-image: url(/assets/images/edited1.jpg);
+    background-image: url("../images/edited1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -62,7 +62,7 @@ body {
 #Anchor2 {
     display: flex;
     flex-wrap: wrap;
-    background-image: url(/assets/images/Aboutme.jpg);
+    background-image: url("../images/Aboutme.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -83,6 +83,7 @@ body {
     flex-basis: 25%;
     font-size: 20px;
     padding-left: 50px;
+    padding-right: 750px;
 }
 
 #Anchor3 {
@@ -141,7 +142,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     margin: 0%;
-    background-image: url(/assets/images/Personalprojects.jpg);
+    background-image: url("../images/Personalprojects.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -164,7 +165,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     margin: 0;
-    background-image: url(/assets/images/contactme1.jpg);
+    background-image: url("../images/contactme1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
