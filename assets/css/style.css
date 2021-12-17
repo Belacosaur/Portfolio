@@ -190,9 +190,74 @@ footer {
     margin-left: 133px;
 }
 
-@media screen and (min-width: 1100px) {
+@media (min-width:320px) and (max-width:768px) {
     .sidenav {
-        padding-top: 15px;
+        height: 420px;
+        font-size: 8px;
+        width: 100px;
     }
-    .sidenav a {font-size: 18px;}
+    .main {
+        margin: 0;        
+    }
+    #Anchor1
+    {
+        background-size: auto;
+    }
+    #Anchor1 h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+    #Anchor2 h1 {
+        font-size: 35px;  
+    }
+    #Anchor2 p {
+        font-size: 12px;  
+    }
+    #Anchor4 header {
+        font-size: 35px;
+    }
+    .Contact-Me {
+        font-size: 35px; 
+        text-align: center;
+        justify-content: center;
+    }
+    footer {
+        margin-left: 0%;
+    }
 }
+
+@media screen (min-width:769px) and (max-width:1024px) {
+    .sidenav {
+        height: 420px;
+        font-size: 8px;
+        width: 100px;
+    }
+    .main {
+        margin: 0;        
+    }
+    #Anchor1
+    {
+        background-size: auto;
+    }
+    #Anchor1 h1 {
+        font-size: 35px;
+        text-align: center;
+        justify-content: center;
+    }
+    #Anchor2 h1 {
+        font-size: 35px;  
+    }
+    #Anchor2 p {
+        font-size: 12px;  
+    }
+    #Anchor4 header {
+        font-size: 35px;
+    }
+    .Contact-Me {
+        font-size: 35px; 
+        text-align: center;
+        justify-content: center;
+    }
+    footer {
+        margin-left: 0%;
+    }
