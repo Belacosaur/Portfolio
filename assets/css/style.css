@@ -43,7 +43,7 @@ body {
 #Anchor1 {
     display: flex;
     flex-wrap: wrap;
-    background-image: url(./assets/images/edited1.jpg);
+    background-image: url(assets/images/edited1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
